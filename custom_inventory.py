@@ -33,13 +33,13 @@ location_groups = {}
 
 # Process each host in the JSON payload
 for host in inventory_data['hosts']:
-    host_id = host['id']
-    hostname = host['hostname']
+    host_id    = host['id']
+    hostname   = host['hostname']
     ip_address = host['ip_address']
-    status = host['status']
-    os = host['os']
-    location = host['location']
-    owner = host['owner']
+    status     = host['status']
+    os         = host['os']
+    location   = host['location']
+    owner      = host['owner']
 
     # Add the host to the 'all' group
     ansible_inventory['all']['hosts'].append(hostname)
