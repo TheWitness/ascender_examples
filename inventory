@@ -1,0 +1,5 @@
+[hypervisors]
+vmhost[0:11]
+
+[virtmachines]
+vhost[01:45]
