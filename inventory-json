@@ -5,6 +5,7 @@
             "ip_address": "192.168.11.105",
             "hostname": "Central NAS",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -13,6 +14,7 @@
             "ip_address": "192.168.11.200",
             "hostname": "vmhost5",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -21,6 +23,7 @@
             "ip_address": "192.168.11.197",
             "hostname": "vmhost2",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -29,6 +32,7 @@
             "ip_address": "192.168.11.198",
             "hostname": "vmhost3",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -37,6 +41,7 @@
             "ip_address": "192.168.11.196",
             "hostname": "vmhost1",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -45,6 +50,7 @@
             "ip_address": "192.168.11.195",
             "hostname": "vmhost0",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -53,6 +59,7 @@
             "ip_address": "192.168.11.194",
             "hostname": "vmhost6",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -61,6 +68,7 @@
             "ip_address": "192.168.11.96",
             "hostname": "MikroTik AP",
             "status": "active",
+            "location": "Basement",
             "os": "MikroTik Device",
             "owner": "cacti"
         },
@@ -69,6 +77,7 @@
             "ip_address": "192.168.11.245",
             "hostname": "vhost45",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -77,6 +86,7 @@
             "ip_address": "192.168.11.244",
             "hostname": "vhost44",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -85,6 +95,7 @@
             "ip_address": "192.168.11.243",
             "hostname": "vhost43",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -93,6 +104,7 @@
             "ip_address": "192.168.11.239",
             "hostname": "vhost39",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -101,6 +113,7 @@
             "ip_address": "192.168.11.241",
             "hostname": "vhost41",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -109,6 +122,7 @@
             "ip_address": "192.168.11.240",
             "hostname": "vhost40",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -117,6 +131,7 @@
             "ip_address": "192.168.11.242",
             "hostname": "vhost42",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -125,6 +140,7 @@
             "ip_address": "192.168.11.238",
             "hostname": "vhost38",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -133,6 +149,7 @@
             "ip_address": "192.168.11.236",
             "hostname": "vhost36",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -141,6 +158,8 @@
             "ip_address": "192.168.11.237",
             "hostname": "vhost37",
             "status": "active",
+            "location": "Basement",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -149,6 +168,7 @@
             "ip_address": "192.168.11.235",
             "hostname": "vhost35",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -157,6 +177,7 @@
             "ip_address": "192.168.11.233",
             "hostname": "vhost33",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -165,6 +186,7 @@
             "ip_address": "192.168.11.230",
             "hostname": "vhost30",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -173,6 +195,7 @@
             "ip_address": "192.168.11.231",
             "hostname": "vhost31",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -181,6 +204,7 @@
             "ip_address": "192.168.11.232",
             "hostname": "vhost32",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -189,6 +213,7 @@
             "ip_address": "192.168.11.229",
             "hostname": "vhost29",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -197,6 +222,7 @@
             "ip_address": "192.168.11.234",
             "hostname": "vhost34",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -205,6 +231,7 @@
             "ip_address": "192.168.11.228",
             "hostname": "vhost28",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -213,6 +240,7 @@
             "ip_address": "192.168.11.227",
             "hostname": "vhost27",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -221,6 +249,7 @@
             "ip_address": "192.168.11.226",
             "hostname": "vhost26",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -229,6 +258,7 @@
             "ip_address": "192.168.11.225",
             "hostname": "vhost25",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -237,6 +267,7 @@
             "ip_address": "192.168.11.220",
             "hostname": "vhost20",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -245,6 +276,7 @@
             "ip_address": "192.168.11.223",
             "hostname": "vhost23",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -253,6 +285,7 @@
             "ip_address": "192.168.11.222",
             "hostname": "vhost22",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -261,6 +294,7 @@
             "ip_address": "192.168.11.221",
             "hostname": "vhost21",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -269,6 +303,8 @@
             "ip_address": "192.168.11.218",
             "hostname": "vhost18",
             "status": "active",
+            "location": "Basement",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -277,6 +313,7 @@
             "ip_address": "192.168.11.216",
             "hostname": "vhost16",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -285,6 +322,7 @@
             "ip_address": "192.168.11.219",
             "hostname": "vhost19",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -293,6 +331,8 @@
             "ip_address": "192.168.11.215",
             "hostname": "vhost15",
             "status": "active",
+            "location": "Basement",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -301,6 +341,7 @@
             "ip_address": "192.168.11.217",
             "hostname": "vhost17",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -309,6 +350,7 @@
             "ip_address": "192.168.11.213",
             "hostname": "vhost13",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -317,6 +359,7 @@
             "ip_address": "192.168.11.224",
             "hostname": "vhost24",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -325,6 +368,7 @@
             "ip_address": "192.168.11.210",
             "hostname": "vhost10",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -333,6 +377,7 @@
             "ip_address": "192.168.11.212",
             "hostname": "vhost12",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -341,6 +386,7 @@
             "ip_address": "192.168.11.209",
             "hostname": "vhost09",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -349,6 +395,7 @@
             "ip_address": "192.168.11.211",
             "hostname": "vhost11",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -357,6 +404,7 @@
             "ip_address": "192.168.11.214",
             "hostname": "vhost14",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -365,6 +413,7 @@
             "ip_address": "192.168.11.208",
             "hostname": "vhost08",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -373,6 +422,7 @@
             "ip_address": "192.168.11.207",
             "hostname": "vhost07",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -381,6 +431,7 @@
             "ip_address": "192.168.11.206",
             "hostname": "vhost06",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -389,6 +440,7 @@
             "ip_address": "192.168.11.205",
             "hostname": "vhost05",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -397,6 +449,7 @@
             "ip_address": "192.168.11.202",
             "hostname": "vhost02",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -405,6 +458,7 @@
             "ip_address": "192.168.11.201",
             "hostname": "vhost01",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -413,6 +467,7 @@
             "ip_address": "192.168.11.1",
             "hostname": "Mikrotik Core RTR",
             "status": "active",
+            "location": "Basement",
             "os": "MikroTik Device",
             "owner": "cacti"
         },
@@ -421,6 +476,7 @@
             "ip_address": "adamsnas",
             "hostname": "Synology NAS",
             "status": "active",
+            "location": "Basement",
             "os": "Synology NAS",
             "owner": "cacti"
         },
@@ -429,6 +485,7 @@
             "ip_address": "192.168.11.192",
             "hostname": "vmhost8",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -437,6 +494,7 @@
             "ip_address": "192.168.11.193",
             "hostname": "vmhost7",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -445,6 +503,7 @@
             "ip_address": "192.168.11.191",
             "hostname": "vmhost9",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -453,6 +512,7 @@
             "ip_address": "192.168.11.190",
             "hostname": "vmhost10",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -461,6 +521,7 @@
             "ip_address": "apcups01",
             "hostname": "Basement (SmartUPS 750)",
             "status": "active",
+            "location": "Basement",
             "os": "UPS - APC PowerNet",
             "owner": "cacti"
         },
@@ -469,6 +530,7 @@
             "ip_address": "apcups02",
             "hostname": "Office (BackUPS 500G)",
             "status": "active",
+            "location": "Basement",
             "os": "UPS - APC PowerNet",
             "owner": "cacti"
         },
@@ -477,47 +539,8 @@
             "ip_address": "192.168.11.101",
             "hostname": "dadspc",
             "status": "active",
+            "location": "Basement",
             "os": "Windows Device",
-            "owner": "cacti"
-        },
-        {
-            "id": 207,
-            "ip_address": "localhost",
-            "hostname": "BX 1500M Basement",
-            "status": "active",
-            "os": "UPS - APC UPSD Device",
-            "owner": "cacti"
-        },
-        {
-            "id": 208,
-            "ip_address": "localhost",
-            "hostname": "XS 1500M Basement",
-            "status": "active",
-            "os": "UPS - APC UPSD Device",
-            "owner": "cacti"
-        },
-        {
-            "id": 209,
-            "ip_address": "localhost",
-            "hostname": "SMT 750 Basement",
-            "status": "active",
-            "os": "UPS - APC UPSD Device",
-            "owner": "cacti"
-        },
-        {
-            "id": 210,
-            "ip_address": "localhost",
-            "hostname": "APC BG500 Office",
-            "status": "active",
-            "os": "UPS - APC UPSD Device",
-            "owner": "cacti"
-        },
-        {
-            "id": 211,
-            "ip_address": "localhost",
-            "hostname": "ES 750 Basement",
-            "status": "active",
-            "os": "UPS - APC UPSD Device",
             "owner": "cacti"
         },
         {
@@ -525,6 +548,7 @@
             "ip_address": "192.168.11.57",
             "hostname": "SMT 750 Network Attached",
             "status": "active",
+            "location": "Basement",
             "os": "UPS - APC UPSD Device",
             "owner": "cacti"
         },
@@ -533,6 +557,7 @@
             "ip_address": "192.168.11.203",
             "hostname": "vhost03",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -541,6 +566,7 @@
             "ip_address": "192.168.11.204",
             "hostname": "vhost04",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -549,6 +575,7 @@
             "ip_address": "192.168.11.189",
             "hostname": "vmhost11",
             "status": "active",
+            "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
@@ -557,6 +584,7 @@
             "ip_address": "192.168.11.97",
             "hostname": "MikroTik Switch",
             "status": "active",
+            "location": "Basement",
             "os": "MikroTik Device",
             "owner": "cacti"
         }
