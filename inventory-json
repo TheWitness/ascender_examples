@@ -1,15 +1,6 @@
 {
     "hosts": [
         {
-            "id": 13,
-            "ip_address": "192.168.11.105",
-            "hostname": "Central NAS",
-            "status": "active",
-            "location": "Basement",
-            "os": "Net-SNMP Device",
-            "owner": "cacti"
-        },
-        {
             "id": 58,
             "ip_address": "192.168.11.200",
             "hostname": "vmhost5",
@@ -61,15 +52,6 @@
             "status": "active",
             "location": "Basement",
             "os": "Net-SNMP Device",
-            "owner": "cacti"
-        },
-        {
-            "id": 66,
-            "ip_address": "192.168.11.96",
-            "hostname": "MikroTik AP",
-            "status": "active",
-            "location": "Basement",
-            "os": "MikroTik Device",
             "owner": "cacti"
         },
         {
@@ -463,24 +445,6 @@
             "owner": "cacti"
         },
         {
-            "id": 147,
-            "ip_address": "192.168.11.1",
-            "hostname": "Mikrotik Core RTR",
-            "status": "active",
-            "location": "Basement",
-            "os": "MikroTik Device",
-            "owner": "cacti"
-        },
-        {
-            "id": 150,
-            "ip_address": "adamsnas",
-            "hostname": "Synology NAS",
-            "status": "active",
-            "location": "Basement",
-            "os": "Synology NAS",
-            "owner": "cacti"
-        },
-        {
             "id": 151,
             "ip_address": "192.168.11.192",
             "hostname": "vmhost8",
@@ -517,42 +481,6 @@
             "owner": "cacti"
         },
         {
-            "id": 155,
-            "ip_address": "apcups01",
-            "hostname": "Basement (SmartUPS 750)",
-            "status": "active",
-            "location": "Basement",
-            "os": "UPS - APC PowerNet",
-            "owner": "cacti"
-        },
-        {
-            "id": 156,
-            "ip_address": "apcups02",
-            "hostname": "Office (BackUPS 500G)",
-            "status": "active",
-            "location": "Basement",
-            "os": "UPS - APC PowerNet",
-            "owner": "cacti"
-        },
-        {
-            "id": 157,
-            "ip_address": "192.168.11.101",
-            "hostname": "dadspc",
-            "status": "active",
-            "location": "Basement",
-            "os": "Windows Device",
-            "owner": "cacti"
-        },
-        {
-            "id": 220,
-            "ip_address": "192.168.11.57",
-            "hostname": "SMT 750 Network Attached",
-            "status": "active",
-            "location": "Basement",
-            "os": "UPS - APC UPSD Device",
-            "owner": "cacti"
-        },
-        {
             "id": 229,
             "ip_address": "192.168.11.203",
             "hostname": "vhost03",
@@ -579,14 +507,5 @@
             "os": "Net-SNMP Device",
             "owner": "cacti"
         },
-        {
-            "id": 232,
-            "ip_address": "192.168.11.97",
-            "hostname": "MikroTik Switch",
-            "status": "active",
-            "location": "Basement",
-            "os": "MikroTik Device",
-            "owner": "cacti"
-        }
     ]
 }
