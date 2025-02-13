@@ -506,6 +506,6 @@
             "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
-        },
+        }
     ]
 }
