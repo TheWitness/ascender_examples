@@ -19,15 +19,6 @@
             "owner": "cacti"
         },
         {
-            "id": 62,
-            "ip_address": "192.168.11.198",
-            "hostname": "vmhost3",
-            "status": "active",
-            "location": "Basement",
-            "os": "Net-SNMP Device",
-            "owner": "cacti"
-        },
-        {
             "id": 63,
             "ip_address": "192.168.11.196",
             "hostname": "vmhost1",
