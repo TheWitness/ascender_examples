@@ -665,6 +665,25 @@
             "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
+        },
+        {
+            "id": 159,
+            "ip_address": "192.168.11.170",
+            "hostname": "uhost01",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
+        },
+        {
+            "id": 160,
+            "ip_address": "192.168.11.171",
+            "hostname": "valma01",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
         }
+
     ]
 }
