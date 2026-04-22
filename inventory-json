@@ -1,6 +1,24 @@
 {
     "hosts": [
         {
+            "id": 1,
+            "ip_address": "192.168.11.50",
+            "hostname": "vmhost0",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
+        },
+        {
+            "id": 3,
+            "ip_address": "192.168.11.53",
+            "hostname": "vmhost3",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
+        },
+        {
             "id": 4,
             "ip_address": "192.168.11.54",
             "hostname": "vmhost4",
