@@ -647,7 +647,51 @@
             "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
+        },
+        {
+            "id": 161,
+            "ip_address": "192.168.11.201",
+            "hostname": "voel01",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
+        },
+        {
+            "id": 162,
+            "ip_address": "192.168.11.202",
+            "hostname": "voel02",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
+        },
+        {
+            "id": 163,
+            "ip_address": "192.168.11.203",
+            "hostname": "voel03",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
+        },
+        {
+            "id": 164,
+            "ip_address": "192.168.11.210",
+            "hostname": "vrlchost01",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
+        },
+        {
+            "id": 161,
+            "ip_address": "192.168.11.220",
+            "hostname": "vbsdhost01",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
         }
-
     ]
 }
