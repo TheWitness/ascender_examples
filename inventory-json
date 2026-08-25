@@ -719,6 +719,15 @@
             "location": "Basement",
             "os": "Net-SNMP Device",
             "owner": "cacti"
+        },
+        {
+            "id": 167,
+            "ip_address": "192.168.11.212",
+            "hostname": "vrlchhost02",
+            "status": "active",
+            "location": "Basement",
+            "os": "Net-SNMP Device",
+            "owner": "cacti"
         }
     ]
 }
